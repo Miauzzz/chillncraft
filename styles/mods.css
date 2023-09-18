@@ -14,14 +14,6 @@ body {
     text-shadow: 3px 5px 13px rgb(0, 0, 0);
 }
 
-body::-webkit-scrollbar {
-    width: 0em; /* Ancho del scrollbar */
-}
-
-body::-webkit-scrollbar-thumb {
-    background-color: #888; /* Color del "thumb" (la parte que puedes arrastrar) */
-}
-
 /*              INICIO DE HEADER MENU               */
 
 .header{
