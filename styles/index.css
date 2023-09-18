@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(images/background.jpeg);
+    background-image: url(../images/background.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
     background-attachment:fixed;
@@ -13,6 +13,7 @@ body {
     color: #fff;
     text-shadow: 3px 5px 13px rgb(0, 0, 0);
 }
+
 
 /*              INICIO DE HEADER MENU               */
 
@@ -117,7 +118,7 @@ body {
     }
 
     body {
-        background-image: url(images/movilbackground.jpeg);
+        background-image: url(../images/movilbackground.jpeg);
 
     }
 

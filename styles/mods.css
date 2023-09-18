@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(images/background.jpeg);
+    background-image: url(../images/background.jpeg);
     background-repeat:no-repeat;
     background-size:cover;
     background-attachment:fixed;
@@ -160,7 +160,7 @@ background-color: #888; /* Color del "thumb" (la parte que puedes arrastrar) */
     }
 
     body {
-        background-image: url(images/movilbackground.jpeg);
+        background-image: url(../images/movilbackground.jpeg);
     }
 
     .blackbox{
