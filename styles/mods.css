@@ -12,8 +12,6 @@ body {
     font-family: Arial, sans-serif;
     color: #fff;
     text-shadow: 3px 5px 13px rgb(0, 0, 0);
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* Internet Explorer/Edge */
 }
 
 body::-webkit-scrollbar {
